@@ -30,7 +30,7 @@ Feel free to fork the repo and try your own tweaks!
 Note: All notebooks are set up for Google Colab, so you don’t need to worry about setting up a local environment.
 
 ## 🛠 Tech Stack
-Python 🐍
+Python 
 
 TensorFlow / Keras
 
